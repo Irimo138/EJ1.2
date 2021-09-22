@@ -1,7 +1,2 @@
 Tolosa
-Donosti
-<<<<<<< HEAD
-Rente
-=======
-onyarbi
->>>>>>> b28831a290a23d28434af093a3e9221a43103746
+
