@@ -3,3 +3,4 @@ vancouver
 toronto
 calgary
 montreal
+edmonton
